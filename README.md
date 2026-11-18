@@ -17,7 +17,7 @@ The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-game
 
 ## Built with
 - Python and pandas, in Google Colab
-- Coming soon: my outside tool
+- Coming soon: CheapShark
 
 ## How to run it
 Coming soon
